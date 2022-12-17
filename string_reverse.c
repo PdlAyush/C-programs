@@ -43,5 +43,5 @@ int main (int argc, char** argv)
 	{
 		rev_string[j]= user_input[input_length];
 	}
-	printf("Reversed string is %s\n",rev_string);
+	printf("Reversed string:  %s\n",rev_string);
 }
